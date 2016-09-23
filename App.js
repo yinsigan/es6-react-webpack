@@ -8,4 +8,6 @@ class App extends React.Component {
   }
 }
 
+// const App = () => <div>Hello</div>
+
 export default App
